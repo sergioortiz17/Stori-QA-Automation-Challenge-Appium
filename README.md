@@ -2,6 +2,10 @@
 # STACK : Behave Python Cucumber-Gherkin POM
 # Reporte Allure y xml junit
 
+Link Video Ejecucion Appium 
+
+https://drive.google.com/file/d/1clJtJlQ-6hSAWuenzBLh3neLCL0s79cA/view?usp=sharing
+
 # Requerimientos y Configuracion de entorno
 1. Python instalado https://www.python.org/
 2. Administrador de paquetes pip (Verificas con pip --version)
